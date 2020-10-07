@@ -2,8 +2,9 @@
 
 
 ## 概要
-・以下のリポジトリでVue2を使用してますが、それをVue3に置き換えただけのリポジトリです。概要はリンク先ののREADMEを参照ください。
+・以下のリポジトリでVue2を使用してますが、それをVue3に置き換えただけのリポジトリです。概要はリンク先のREADMEを参照ください。
 https://github.com/selfsryo/vue2_django_calendar
+
 <br>
 
 ## 備考
