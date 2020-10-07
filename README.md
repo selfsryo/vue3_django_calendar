@@ -8,7 +8,7 @@ https://github.com/selfsryo/vue2_django_calendar
 <br>
 
 ## 備考
-・[こちら](https://github.com/selfsryo/vue2_django_calendar#vue%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%A2%E3%83%BC%E3%83%89)のVue用コンテナの名称を、Vue2 から Vue3 に変更しています。
+・[こちら](https://github.com/selfsryo/vue2_django_calendar#vue%E3%81%AE%E9%96%8B%E7%99%BA%E3%83%A2%E3%83%BC%E3%83%89)のVue用コンテナの名称を、vue2 から vue3 に変更しています。
 
 コンテナに入るコマンド
 ```
