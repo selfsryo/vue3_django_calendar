@@ -40,8 +40,8 @@
 </template>
 
 <script>
-import { mapGetters, mapActions } from 'vuex';
-import { UPDATE_HOLIDAY } from '../store/mutation-types';
+import { mapGetters, mapActions } from 'vuex'
+import { UPDATE_HOLIDAY } from '../store/mutation-types'
 export default {
   data() {
     return {
