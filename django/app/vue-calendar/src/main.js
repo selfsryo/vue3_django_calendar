@@ -4,7 +4,6 @@ import router from './router'
 import store from './store'
 
 
-// createApp().prototype.$http = (url, opts) => fetch(url, opts)
 const app = createApp(App).use(store).use(router)
 
 app.config.globalProperties.$http = (url, opts) => fetch(url, opts)
